@@ -2,8 +2,7 @@ Amphibians App
 ==================================
 
 The second independent project for Android Basics in Kotlin. This project pairs
-with Unit 4 of Android Basics in Kotlin https://developer.android.
-com/courses/android-basics-kotlin/unit-4
+with Unit 4 of Android Basics in Kotlin https://developer.android.com/courses/android-basics-kotlin/unit-4
 
 Introduction
 ------------
